@@ -27,6 +27,7 @@ Live Demo You can view the live working site here:  cinemaapp-evelin-mihaylov.ct
 
 Setup Instructions
 
+
 1)Start XAMPP
 
 2)Import the database SQL file (hndcssa11.sql) into phpMyAdmin.
