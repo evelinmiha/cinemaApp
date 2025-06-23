@@ -25,6 +25,7 @@ Database The project uses a MySQL database named hndcssa11.
 
 Live Demo You can view the live working site here:  cinemaapp-evelin-mihaylov.ct.ws
 
+
 Setup Instructions
 
 
