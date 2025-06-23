@@ -27,9 +27,9 @@ Live Demo You can view the live working site here:  cinemaapp-evelin-mihaylov.ct
 
 Setup Instructions
 
-Start XAMPP
-Import the database SQL file (hndcssa11.sql) into phpMyAdmin.
-Copy the files of the project to xampp/htdocs/ Cinema
-In connect_db.php make sure to have your database name, username, and password as needed
-Start Apache and MySQL in XAMPP.
-Open your browser and go to: http://localhost/cinema/
+-Start XAMPP
+-Import the database SQL file (hndcssa11.sql) into phpMyAdmin.
+-Copy the files of the project to xampp/htdocs/ Cinema
+-In connect_db.php make sure to have your database name, username, and password as needed
+-Start Apache and MySQL in XAMPP.
+-Open your browser and go to: http://localhost/cinema/
